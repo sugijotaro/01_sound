@@ -13,6 +13,7 @@
 		0A59AFD82824A26300173F81 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0A59AFD62824A26300173F81 /* Main.storyboard */; };
 		0A59AFDA2824A26700173F81 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0A59AFD92824A26700173F81 /* Assets.xcassets */; };
 		0A59AFDD2824A26700173F81 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0A59AFDB2824A26700173F81 /* LaunchScreen.storyboard */; };
+		0A9F6C1228252E03002EC236 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 0A9F6C1128252E03002EC236 /* icon.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		0A59AFD92824A26700173F81 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0A59AFDC2824A26700173F81 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0A59AFDE2824A26700173F81 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0A9F6C1128252E03002EC236 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		0A59AFCF2824A26300173F81 /* Sound */ = {
 			isa = PBXGroup;
 			children = (
+				0A9F6C1128252E03002EC236 /* icon.png */,
 				0A59AFD02824A26300173F81 /* AppDelegate.swift */,
 				0A59AFD22824A26300173F81 /* SceneDelegate.swift */,
 				0A59AFD42824A26300173F81 /* ViewController.swift */,
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0A9F6C1228252E03002EC236 /* icon.png in Resources */,
 				0A59AFDD2824A26700173F81 /* LaunchScreen.storyboard in Resources */,
 				0A59AFDA2824A26700173F81 /* Assets.xcassets in Resources */,
 				0A59AFD82824A26300173F81 /* Main.storyboard in Resources */,
